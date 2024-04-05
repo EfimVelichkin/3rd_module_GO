@@ -10,7 +10,7 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/EfimVelichkin/03-03-umanager/internal/env"
+	"github.com/EfimVelichkin/3rd_module_GO/03-03-umanager/internal/env"
 )
 
 const ShutdownTimeout = 3 * time.Second
